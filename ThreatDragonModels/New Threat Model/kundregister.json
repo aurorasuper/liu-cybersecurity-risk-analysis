@@ -1,6 +1,10 @@
 {
+    "version": "2.0.3",
   "summary": {
-    "title": "Exempelsystem i kursen ETE352 Cybersäkerhet - grunder och medvetenhet"
+    "title": "New Threat Model",
+    "owner": "",
+    "description": "",
+    "id": 0
   },
   "detail": {
       "contributors": ["Elmedin Zildzic", "Mikael Asplund"],
